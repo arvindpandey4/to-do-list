@@ -1,5 +1,5 @@
 # A Simple To Do List App using React js and Bootstrap
-Here are a few screenshots of the realtime working of the application
+Here are a few screenshots of the realtime working of the application, it crosses the task which is done and can update the task.
 
 
 ![Screenshot (31)](https://user-images.githubusercontent.com/114512882/227293274-83a938b9-949b-46e0-a3a0-7a31fec66f81.png)
